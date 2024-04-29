@@ -9,6 +9,7 @@ from nltk.tokenize import word_tokenize
 import joblib 
 
 nltk.download('stopwords')
+nltk.download('punkt')
 # Function to preprocess text
 def preprocess_text(text):
     # Convert to lowercase
