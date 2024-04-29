@@ -87,6 +87,8 @@ The models achieve high accuracy in detecting hate speech, making it effective f
 
 
 ### Demo 
+[streamlit-app-2024-04-29-16-04-22.webm](https://github.com/figo2001/Hate-Speech-Deetction/assets/78696850/7ebeff7a-8f02-48ed-9b21-8c43cc010fcd)
+
 
 ### Conclusion
 
