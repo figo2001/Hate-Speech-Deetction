@@ -8,7 +8,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import joblib 
 
-
+nltk.download('stopwords')
 # Function to preprocess text
 def preprocess_text(text):
     # Convert to lowercase
